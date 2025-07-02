@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arnold Jonas CONVOLBO
 - 👀 I’m interested in web development 
-- 💞️ I’m looking to collaborate on React/Next - Laravel projects
+- 💞️ I’m looking to collaborate on React - Laravel projects
 - 📫 How to reach me : arnoldconv@proton.me
 
 <!---
